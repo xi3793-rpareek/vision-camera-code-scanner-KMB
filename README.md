@@ -29,7 +29,7 @@ Add this to your `babel.config.js`
 
 Simply call the `useScanBarcodes()` hook or call `scanBarcodes()` inside of the `useFrameProcessor()` hook. In both cases you will need to pass an array of `BarcodeFormat` to specify the kind of barcode you want to detect.
 
-> Note: The underlying MLKit barcode reader is only created once meaning that changes to the array will not be reflected in the app.
+> Note: The underlying MLKit barcode reader is only created once meaning that changes to the array will not be reflected in the app....
 
 ```js
 import * as React from 'react';
