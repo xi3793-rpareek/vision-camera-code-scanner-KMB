@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "vision-camera-code-scanner": ["./src/index"]
+      "vision-camera-code-scanner-kmb": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
